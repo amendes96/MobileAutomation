@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AngryBirds/AngryBirds.iml" filepath="$PROJECT_DIR$/AngryBirds/AngryBirds.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Calculator/Calculator.iml" filepath="$PROJECT_DIR$/Calculator/Calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Generic/Generic.iml" filepath="$PROJECT_DIR$/Generic/Generic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NYP/NYP.iml" filepath="$PROJECT_DIR$/NYP/NYP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SubwaySurfer/SubwaySurfer.iml" filepath="$PROJECT_DIR$/SubwaySurfer/SubwaySurfer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Team1MobileAutomation.iml" filepath="$PROJECT_DIR$/Team1MobileAutomation.iml" />
+    </modules>
+  </component>
+</project>

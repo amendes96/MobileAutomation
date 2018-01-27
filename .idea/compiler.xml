@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="AngryBirds" />
+        <module name="Calculator" />
+        <module name="Generic" />
+        <module name="NYP" />
+        <module name="SubwaySurfer" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="AngryBirds" target="1.8" />
+      <module name="Calculator" target="1.8" />
+      <module name="Generic" target="1.8" />
+      <module name="NYP" target="1.8" />
+      <module name="SubwaySurfer" target="1.8" />
+      <module name="Team1MobileAutomation" target="1.8" />
+      <module name="Youtube" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
